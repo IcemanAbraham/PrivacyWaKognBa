@@ -1,91 +1,112 @@
 # Politique de confidentialité WaKognBa
 
-WaKognBa Ibrahima Sonko
-
+WaKognBa – GSX
 Type d'application : Vente en ligne
+Date d'entrée en vigueur : 2025-02-05
 
-Le but de cette politique de confidentialité
+1. Identité du responsable du traitement
 
-Le but de cette politique de confidentialité est d'informer les utilisateurs de notre site des données personnelles que nous rectarillroos si que les informations suivantes, le cas échéant :
+La présente politique est éditée par Galsen Studios X (GSX), responsable du traitement des données collectées via l'application WaKognBa.
+GSX détermine les finalités et les moyens du traitement conformément à la réglementation applicable.
 
-a. Les données personnelles que nous recueillerons
+2. Objet
 
-b. L'utilisation des données recueillies
+La présente politique a pour objet d'informer les utilisateurs :
+- Des données personnelles susceptibles d'être collectées ;
+- Des finalités et bases juridiques du traitement ;
+- Des destinataires des données ;
+- De la durée de conservation ;
+- Des droits des utilisateurs ;
+- Des mesures de sécurité mises en œuvre.
 
-c. Qui a accès aux données recueillies
+Elle complète les Conditions Générales d'Utilisation.
 
-d. Les droits des utilisateurs du site
+3. Cadre juridique
 
-e. La politique de cookies du site
+Les traitements sont réalisés conformément :
+- Au Règlement Général sur la Protection des Données (RGPD) ;
+- Aux lois nationales applicables ;
+- Le cas échéant, à la California Consumer Privacy Act (CCPA).
 
-Cette politique de confidentialité fonctionne parallèlement aux conditions générales d'utilisation de notre site.
+En cas de conflit avec une disposition légale impérative, la loi applicable prévaudra.
 
-Lois applicables
+4. Bases légales du traitement
 
-Conformément au Règlement général sur la protection des données (RGPD), cette politique de confidentialité est conforme aux règlements suivants.
+Les traitements reposent sur :
+- Le consentement explicite ;
+- L'exécution d'un contrat ;
+- Une obligation légale ;
+- La protection des intérêts vitaux ;
+- L'intérêt légitime de GSX.
 
-Les données à caractère personnel doivent être 
+5. Données collectées
 
-a. traitées de manière licite, loyale et transparente au regard de la personne concernée (licéité, loyauté, transparence);
+Principe de minimisation :
+Seules les données strictement nécessaires sont collectées.
 
-b. collectées pour des finalités déterminées, explicites et légitimes, et ne pas être traitées ultérieurement d'une manière incompatible avec ces finalités; le traitement ultérieur à des fins archivistiques dans l'intérêt public, à des fins de recherche scientifique ou historique ou à des fins statistiques n'est pas considéré, conformément à l'article 89. paragraphe 1, comme incompatible avec les finalités initiales (limitation des finalités);
+Données vendeurs :
+Peuvent inclure identité commerciale, coordonnées professionnelles et informations relatives aux produits.
+Ces données peuvent être visibles par les utilisateurs et utilisées à des fins promotionnelles.
 
-c. adéquates, pertinentes et limitées à ce qui est nécessaire au regard des finalités pour lesquelles elles sont traitées (minimisation des données);
+Données acheteurs :
+Limitées aux informations nécessaires à la gestion des commandes.
+Accessibles uniquement au vendeur concerné et aux services internes habilités.
+Supprimées ou anonymisées après exécution de la finalité, sauf obligation légale contraire.
 
-d. exactes et, si nécessaire, tenues à jour, toutes les mesures raisonnables doivent être prises pour que les données à caractère personnel qui sont inexactes, eu égard aux finalités pour lesquelles elles sont traitées, soient effacées ou rectifiées sans tarder (exactitude);
+6. Absence de cession commerciale
 
-e. conservées sous une forme permettant l'identification des personnes concernées pendant une durée n'excédant pas celle nécessaire au regard des finalités pour lesquelles elles sont traitées; les données à caractère personnel peuvent être conservées pour des durées plus longues dans la mesure où elles seront traitées exclusivement à des fins archivistiques dans l'intérêt public, à des fins de recherche scientifique ou historique ou à des fins statistiques conformément à l'article 89, paragraphe 1, pour autant que soient mises en œuvre les mesures techniques et organisationnelles appropriées requises par le règlement afin de garantir les droits et libertés de la personne concernée (limitation de la conservation);
+Aucune donnée personnelle n'est vendue, louée ou cédée à des tiers sans consentement préalable.
 
-f. traitées de façon à garantir une sécurité appropriée des données à caractère personnel, y compris la protection contre le traitement non autorisé ou illicite et contre la perte, la destruction ou les dégâts d'origine accidentelle, à l'aide de mesures techniques ou organisationnelles appropriées (intégrité et confidentialité).
+7. Durée de conservation
 
-Le traitement n'est licite que si, et dans la mesure où, au moins une des conditions suivantes est remplie :
+Les données sont conservées :
+- Pendant la durée nécessaire à l'exécution du service ;
+- Ou selon les obligations légales applicables ;
+Puis supprimées ou anonymisées de manière sécurisée.
 
-a. la personne concernée a consenti au traitement de ses données à caractère personnel pour une ou plusieurs finalités spécifiques;
+8. Sécurité
 
-b. le traitement est nécessaire à l'exécution d'un contrat auquel la personne concernée est partie ou à l'exécution de mesures précontractuelles prises à la demande de celle-ci ;
+Des mesures techniques et organisationnelles appropriées sont mises en œuvre afin d'assurer la confidentialité, l'intégrité et la disponibilité des données.
 
-c. le traitement est nécessaire au respect d'une obligation légale à laquelle le responsable du traitement est soumis;
+Toutefois, aucun système n'étant totalement sécurisé, GSX ne peut être tenue responsable en cas de force majeure ou d'attaque échappant à un contrôle raisonnable.
 
-d. le traitement est nécessaire à la sauvegarde des intérêts vitaux de la personne concernée ou d'une autre personne physique:
+9. Droits des utilisateurs
 
-e. le traitement est nécessaire à l'exécution d'une mission d'intérêt public ou relevant de l'exercice de l'autorité publique dont est investi le responsable du traitement;
+Conformément à la réglementation applicable, l'utilisateur dispose :
+- D'un droit d'accès ;
+- D'un droit de rectification ;
+- D'un droit d'effacement ;
+- D'un droit à la limitation ;
+- D'un droit d'opposition ;
+- D'un droit à la portabilité ;
+- Du droit de retirer son consentement.
 
-f. le traitement est nécessaire aux fins des intérêts légitimes poursuivis par le responsable du traitement ou par un tiers, à moins que ne prévalent les intérêts ou les libertés et droits fondamentaux de la personne concernée qui exigent une protection des données à caractère personnel, notamment lorsque la personne concernée est un enfant.
+GSX peut demander un justificatif d'identité avant traitement de toute demande.
 
-Pour les résidents de l'État de Californie, cette politique de confidentialité vise à se conformer à la California Consumer Privacy Act (CCPA). S'il y a des incohérences entre ce document et la CCPA, la législation de l'État s'appliquera. Si nous constatons des incohérences, nous modifierons notre politique pour nous conformer à la loi pertinente.
+10. Cookies
 
-Consentement
+L'application peut utiliser des cookies strictement nécessaires à son fonctionnement.
+Lorsque requis par la loi, le consentement préalable sera recueilli.
 
-Les utilisateurs conviennent qu'en utilisant notre site, ils consentent à :
+11. Limitation de responsabilité
 
-a. les conditions énoncées dans la présente politique de confidentialité et
+GSX ne saurait être tenue responsable :
+- Des dommages indirects ;
+- D'un usage frauduleux par un utilisateur ;
+- D'un manquement imputable à un tiers indépendant.
 
-b. la collecte, l'utilisation et la conservation des données énumérées dans la présente politique.
+L'utilisateur demeure responsable de la confidentialité de ses identifiants.
 
-Données personnelles que nous collectons
+12. Modifications
 
-Nous ne collectons, ne stockons ni n'utilisons aucune donnée utilisateur sur notre site. Dans le cas où nous avons besoin de recueillir vos données, nous veillerons à vous fournir un préavis de ce recueil de données.
+GSX se réserve le droit de modifier la présente politique à tout moment.
+Les modifications prennent effet dès leur publication.
 
-Vos données de vendeur seront accessibles à tous les utilisateurs de l'application, elles pourront aussi être utilisées pour faire la promotion de l'application.
+13. Contact
 
-Vos données d'acheteur ne seront accessibles qu'au vendeur gérant votre commande et seront supprimées une fois la commande complétée.
+Téléphone : 07 69 72 83 20
+Email : wkbservice@gmail.com
 
-Modifications
-
-Cette politique de confidentialité peut être modifiée à l'occasion afin de maintenir la conformité avec la loi et de tenir compte de tout changement à notre processus de collecte de données. Nous recommandons à nos utilisateurs de vérifier notre politique de temps à autre pour s'assurer qu'ils soient informés de toute mise à jour. Au besoin, nous pouvons informer les utilisateurs par courriel des changements apportés à cette politique.
-
-Contact
-
-Si vous avez des questions à nous poser, n'hésitez pas à communiquer avec nous en utilisant ce qui suit :
-
-07 69 72 83 20
-
-abrahamnokos@gmail.com
-
-124 boulevard National appartement 407
-
-Date d'entrée en vigueur: le 5 mars 2022
-
-© 2002-2022, DocumentsLégaux (Sequiter Inc)
+© 2022-2025 Galsen Studios X
 
 
